@@ -1,0 +1,28 @@
+{
+	"name": "scarf-package",
+	"version": "0.0.1",
+	"description": "Add a scarf package with API",
+	"license": "MIT",
+	"repository": "ahmadawais/scarf-package",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"scarf-package",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"devDependencies": {
+		"prettier": "^2.0.2"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	}
+}
