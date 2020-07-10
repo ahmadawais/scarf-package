@@ -32,7 +32,33 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/scarf-package/compare/1.0.0...1.1.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 No validation [`2f1fe8f`](https://github.com/ahmadawais/scarf-package/commit/2f1fe8f1cd0d74c990c821e7e917c4bb4d9199d3) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 First commit [`4ae6898`](https://github.com/ahmadawais/scarf-package/commit/4ae689876ff899842d78782ac53c81f7fb890ce6) <br>
+> 📦 First version [`8dc2fd2`](https://github.com/ahmadawais/scarf-package/commit/8dc2fd24c5e94832149cea3a9b6d24d4b96f4744) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Errors [`f8d8d62`](https://github.com/ahmadawais/scarf-package/commit/f8d8d6270f4e139c540a997e86b367efd7617468) <br>
+> 👌 Test [`59d47de`](https://github.com/ahmadawais/scarf-package/commit/59d47de54a025ccd54384bcdada17c59aa253d3d) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`559eec8`](https://github.com/ahmadawais/scarf-package/commit/559eec8dcb7954efa8970b7defa61b37c695b755) <br>
 
 <br>
 
