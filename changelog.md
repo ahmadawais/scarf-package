@@ -32,11 +32,27 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v1.1.4](https://github.com/ahmadawais/scarf-package/compare/v1.1.3...v1.1.4)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 NodeCLI.com Camp [`d3d935c`](https://github.com/ahmadawais/scarf-package/commit/d3d935c615c2529f4fe6090c1e0a1dd5c61b6736) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [v1.1.3](https://github.com/ahmadawais/scarf-package/compare/v1.1.2...v1.1.3)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 NodeCLI.com [`9a5fb48`](https://github.com/ahmadawais/scarf-package/commit/9a5fb481e3aaf46f4a0c9e01b99fe1ff8b6efd32) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`39d3e1a`](https://github.com/ahmadawais/scarf-package/commit/39d3e1a7b08cbf2481b1a3b07172822511a13516) <br>
 
 <br>
 
