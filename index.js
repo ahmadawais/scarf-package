@@ -30,7 +30,6 @@ module.exports = async ({name, desc = '', externalLibraryType = 'npm'}) => {
 		const res = await axios.post(API_URL, data, {auth});
 		return res;
 	} catch (error) {
-		console.log('error: ', error);
-		// throw new Error(error);
+		console.log(error);
 	}
 };
