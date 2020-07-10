@@ -21,16 +21,6 @@ npm install scarf-package
 
 ## Usage
 
-Create a `.env` in the project root and enter your [Scarf.sh](https://Scarf.sh) `username` and `API Token` (from the settings page) in it.
-
-[Sample env file](./.env.sample):
-
-```env
-SCARF_USERNAME="XXXX"
-SCARF_API_TOKEN="XXXX"
-```
-
-Then use the package.
 
 ```js
 const scarfPackage = require('scarf-package');
@@ -63,6 +53,8 @@ Default: ↓
 
 ```js
 {
+	username: undefined,
+	apiKey: undefined,
 	name: undefined,
 	desc = '',
 	externalLibraryType = 'npm'
@@ -71,9 +63,25 @@ Default: ↓
 
 You can specify the options below.
 
+#### ❯ username
+
+Type: `string`<br>
+Default: undefined
+
+Required username of [Scarf.sh](https://Scarf.sh) site.
+
+#### ❯ username
+
+Type: `string`<br>
+Default: undefined
+
+Required API Token of [Scarf.sh](https://Scarf.sh) site. Find it in your user account settings page.
+
 #### ❯ name
 
 Type: `string`<br>
+Default: undefined
+
 Required name of the package.
 
 #### ❯ desc

@@ -9,14 +9,22 @@
 const axios = require('axios');
 require('dotenv').config();
 
-module.exports = async ({name, desc = '', externalLibraryType = 'npm'}) => {
+module.exports = async ({
+	username,
+	apiToken,
+	name,
+	desc = '',
+	externalLibraryType = 'npm'
+}) => {
 	if (!name) throw Error(`Enter a name for the package.`);
+	if (!username) throw Error(`Scarf username is required`);
+	if (!apiToken) throw Error(`Scarf API Token is required`);
 
 	const API_URL = `https://scarf.sh/package`;
 
 	const auth = {
-		username: process.env.SCARF_USERNAME,
-		password: process.env.SCARF_API_TOKEN
+		username,
+		password: apiToken
 	};
 
 	const data = {
