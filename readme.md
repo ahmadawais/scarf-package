@@ -21,9 +21,74 @@ npm install scarf-package
 
 ## Usage
 
+Create a `.env` in the project root and enter your [Scarf.sh](https://Scarf.sh) `username` and `API Token` (from the settings page) in it.
+
+[Sample env file](./.env.sample):
+
+```env
+SCARF_USERNAME="XXXX"
+SCARF_API_TOKEN="XXXX"
+```
+
+Then use the package.
+
 ```js
 const scarfPackage = require('scarf-package');
+
+(async () => {
+	const pkg = {name: `cli-meow-help`};
+	const res = await scarfPackage(pkg);
+
+	if (res.status === 200) {
+		console.log(`SUCCESS: ${pkg.name} added!`);
+	} else {
+		console.log(`Failed`);
+		console.log(res);
+	}
+})();
 ```
+
+<br />
+
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/options.png)](./../../)
+
+## API
+
+### scarfPackage(options)
+
+#### ❯ options
+
+Type: `object`<br>
+Default: ↓
+
+```js
+{
+	name: undefined,
+	desc = '',
+	externalLibraryType = 'npm'
+}
+```
+
+You can specify the options below.
+
+#### ❯ name
+
+Type: `string`<br>
+Required name of the package.
+
+#### ❯ desc
+
+Type: `string`<br>
+Default: `''` (optional)
+
+Optional short description of the package.
+
+#### ❯ externalLibraryType
+
+Type: `string`<br>
+Default: `'npm'` (optional)
+
+Type of the external library.
 
 <br>
 
