@@ -27,6 +27,8 @@ module.exports = async ({name, desc = '', externalLibraryType = 'npm'}) => {
 
 	// Send it.
 	try {
+		// Don't validate.
+		axios.defaults.validateStatus = () => true;
 		const res = await axios.post(API_URL, data, {auth});
 		return res;
 	} catch (error) {
