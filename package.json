@@ -26,6 +26,7 @@
 		"format": "prettier --write \"./**/*.{js,json}\""
 	},
 	"dependencies": {
+		"@scarf/scarf": "^1.0.6",
 		"axios": "^0.19.2",
 		"dotenv": "^8.2.0"
 	}
