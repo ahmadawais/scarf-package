@@ -32,11 +32,55 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [v1.1.3](https://github.com/ahmadawais/scarf-package/compare/v1.1.2...v1.1.3)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 NodeCLI.com [`9a5fb48`](https://github.com/ahmadawais/scarf-package/commit/9a5fb481e3aaf46f4a0c9e01b99fe1ff8b6efd32) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [v1.1.2](https://github.com/ahmadawais/scarf-package/compare/v1.1.1...v1.1.2)
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 Patch [`8947728`](https://github.com/ahmadawais/scarf-package/commit/8947728cefdcd3ce0fd4226353905e26f408259d) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
+### RELEASE: [v1.1.1](https://github.com/ahmadawais/scarf-package/compare/1.1.0...v1.1.1)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> ="📦 Analyze" [`9222b6a`](https://github.com/ahmadawais/scarf-package/commit/9222b6a82a35bf0d0800c82c41529d021d215fe0) <br>
+
+![🚀 RELEASE:](https://img.shields.io/badge/-RELEASE-gray.svg?colorB=E5A301)
+
+> 🚀 patch [`47a1e0f`](https://github.com/ahmadawais/scarf-package/commit/47a1e0f2f9a3b26b640923ccc9d3d860dbf14513) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: [1.1.0](https://github.com/ahmadawais/scarf-package/compare/1.0.0...1.1.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
 
 > 👌 No validation [`2f1fe8f`](https://github.com/ahmadawais/scarf-package/commit/2f1fe8f1cd0d74c990c821e7e917c4bb4d9199d3) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Changelog [`f28c49f`](https://github.com/ahmadawais/scarf-package/commit/f28c49f46bbe88153d3c4f3652756600321fc543) <br>
 
 <br>
 
